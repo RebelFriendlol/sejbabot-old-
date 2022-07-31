@@ -1,2 +1,2 @@
 # sejbabot
-my first simple discord bot  written in python
+my first old simple discord bot  written in python
